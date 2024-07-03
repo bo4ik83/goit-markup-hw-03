@@ -202,6 +202,10 @@ img {
   gap: 8px;
 }
 
+.advanced-link {
+  width: calc((100% - 72px) / 4);
+}
+
 .advanced-name {
   font-weight: 500;
   font-size: 20px;
@@ -263,6 +267,7 @@ img {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  margin-bottom: 8px;
 }
 
 .team-text {
@@ -272,15 +277,11 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-  padding-top: 8px;
 }
 
 .people {
-  padding-top: 32px;
-  padding-bottom: 32px;
-  padding-left: 18px;
-  padding-right: 18px;
   width: 232px;
+  padding: 32px 0;
 }
 
 /*--------------------*/
@@ -288,8 +289,8 @@ img {
 /*----------PORTFOLIO----------*/
 
 .section-four {
-  margin-top: 120px;
-  margin-bottom: 120px;
+  padding-top: 120px;
+  padding-bottom: 120px;
 }
 
 .portfolio {
@@ -300,7 +301,7 @@ img {
   line-height: 1.11;
   letter-spacing: 0.02em;
   color: #2e2f42;
-  padding-bottom: 72px;
+  margin-bottom: 72px;
 }
 
 .portfolio-list {
@@ -314,7 +315,6 @@ img {
 
 .portfolio-link {
   margin-bottom: 48px;
-  width: 360px;
   background: #fff;
 }
 
@@ -324,6 +324,7 @@ img {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  margin-bottom: 8px;
 }
 
 .portfolio-text {
@@ -341,7 +342,6 @@ img {
   flex-direction: column;
   gap: 8px;
   border-top: none;
-  margin-bottom: 8px;
   border-bottom: 1px solid #e7e9fc;
   border-left: 1px solid #e7e9fc;
   border-right: 1px solid #e7e9fc;
@@ -374,6 +374,7 @@ img {
   text-transform: uppercase;
   color: #4d5ae5;
   width: 115px;
+  margin-bottom: 16px;
 }
 
 .footer-logo-studio {
@@ -387,7 +388,6 @@ img {
   letter-spacing: 0.02em;
   color: #f4f4fd;
   width: 264px;
-  padding-top: 16px;
 }
 
 /*--------------------*/
