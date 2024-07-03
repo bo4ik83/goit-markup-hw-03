@@ -172,10 +172,10 @@ img {
   flex-direction: row;
   padding-top: 120px;
   padding-bottom: 120px;
+  margin-bottom: 8px;
 }
 
 .advanced {
-  margin-bottom: 8px;
   text-align: center;
   text-transform: capitalize;
 }
@@ -299,6 +299,7 @@ img {
 .section-four {
   padding-top: 120px;
   padding-bottom: 120px;
+  margin-bottom: 8px;
 }
 
 .portfolio {
