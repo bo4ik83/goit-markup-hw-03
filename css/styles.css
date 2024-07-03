@@ -172,7 +172,6 @@ img {
   flex-direction: row;
   padding-top: 120px;
   padding-bottom: 120px;
-  gap: 24px;
 }
 
 .advanced {
@@ -199,7 +198,7 @@ img {
   display: flex;
   align-items: center;
   padding-top: 60px;
-  gap: 8px;
+  gap: 24px;
 }
 
 .advanced-link {
