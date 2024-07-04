@@ -197,7 +197,6 @@ img {
   background-color: #ffffff;
   display: flex;
   align-items: center;
-  padding-top: 60px;
   gap: 24px;
 }
 
@@ -220,7 +219,6 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-  padding-top: 8px;
 }
 
 /*--------------------*/
